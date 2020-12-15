@@ -7,3 +7,5 @@ To work on this challenge, I used a combination of Python, Jupyter Notebook, Pan
 2. Create bar charts, pie charts, line graphs, box and whiskers charts, and scatter plots to display the data.
 
 3. Used these charts to show the differences each drug had on the tumors in mice. 
+
+![Bar_chart](Images/Matplot_bar 162307.png)
