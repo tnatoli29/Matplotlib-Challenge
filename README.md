@@ -8,5 +8,3 @@ To work on this challenge, I used a combination of Python, Jupyter Notebook, Pan
 
 3. Used these charts to show the differences each drug had on the tumors in mice. 
 
-
-![Bar_Graph](Images/Matplot_bar 162307.png)
