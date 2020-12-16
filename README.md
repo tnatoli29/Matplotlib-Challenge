@@ -8,5 +8,7 @@ To work on this challenge, I used a combination of Python, Jupyter Notebook, Pan
 
 3. Used these charts to show the differences each drug had on the tumors in mice. 
 
+
+Below are images showing image and code for the Bar Graph and Scatter Plot.
 ![Bar_chart](Images/Matplot_bar.png)
 ![Scatter Plot](Images/Matplot_scatter.png)
